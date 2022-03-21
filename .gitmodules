@@ -1,0 +1,4 @@
+[submodule "kv260-vitis"]
+	path = kv260-vitis
+	url = git@github.com:syed-ahmed/kv260-vitis.git
+	branch = release-2021.1
